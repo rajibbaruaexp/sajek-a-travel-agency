@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <>
       <div className="header-wrapper bg-sky-500">
-        <div className="header py-5 flex w-9/12 items-center justify-between text-white my-0 mx-auto">
+        <div className="header py-5 w-1170 flex items-center justify-between text-white my-0 mx-auto">
           <div className="site-logo">
             <p className="text-4xl">Sajek</p>
           </div>

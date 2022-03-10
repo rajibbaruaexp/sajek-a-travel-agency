@@ -1,5 +1,4 @@
 import React from "react";
-import HotelFilter from "../HotelFilter/HotelFilter";
 import "./Hero.css";
 
 const Hero = () => {
@@ -11,9 +10,6 @@ const Hero = () => {
       <div className="hero-items relative text-white">
         <h1 className="text-5xl">Find Your Perfect Hotels</h1>
         <p className="text-lg">Get the best prices on 20,000+ properties</p>
-      </div>
-      <div className="hotel-filter-wrapper relative mt-5">
-        <HotelFilter />
       </div>
     </div>
   );
